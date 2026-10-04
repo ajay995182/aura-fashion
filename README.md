@@ -3,7 +3,7 @@
 My first WordPress website, built as a project after finishing a WordPress course. It is a fashion online store made with **WordPress + WooCommerce** and a custom black and soft-gold theme called **Aura Fashion**.
 
 **Live site:** https://aura-fashion.freehosting.dev/
-**Guide (what was used, plugins, how to test):** https://ajay995182.github.io/aura-fashion/
+**Guide (what was used, plugins, how to test):** https://github.com/ajay995182/aura-fashion/blob/main/docs/index.html
 
 > This is a **test store**. Every product, price, photo, coupon and order was added only to test the website and its workflow. Payments run in test mode. Nothing is sold or shipped.
 
